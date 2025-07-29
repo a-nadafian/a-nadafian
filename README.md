@@ -1,6 +1,6 @@
 # Hi there, I'm Ashkan Nadafian! 👋🤖
 
-I'm an Electrical Engineering graduate with a focus on Telecommunications, and a passionate Python Programmer with 2 years of experience in Data Analysis, Machine Learning, and Deep Learning model implementation. My journey has led me to specialize in **Data Science** and **AI Development**, where I thrive on transforming data into actionable insights and building intelligent systems.
+I'm a passionate AI Engineer with 2 years of hands-on experience in Data Analysis, Machine Learning, and Deep Learning. My journey in tech has been driven by a fascination for transforming complex data into intelligent, actionable insights. I specialize in **Data Science** and **AI Development**, with a strong focus on building cutting-edge, generative AI systems that solve real-world problems.
 
 ---
 
@@ -30,6 +30,7 @@ I'm an Electrical Engineering graduate with a focus on Telecommunications, and a
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache_Airflow"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache_Kafka"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a>
 </p>
 
 ---
