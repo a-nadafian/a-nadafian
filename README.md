@@ -1,6 +1,6 @@
 # Hi there, I'm Ashkan Nadafian! 👋🤖
 
-I'm an Electrical Engineering graduate with a focus on Telecommunications, and a passionate Python Programmer with 2 years of experience in Data Analysis, Machine Learning, and Deep Learning model implementation. My journey has led me to specialize in **Data Science** and **AI Development**, where I thrive on transforming data into actionable insights and building intelligent systems.
+I'm a passionate AI Engineer with 2 years of hands-on experience in Data Analysis, Machine Learning, and Deep Learning. My journey in tech has been driven by a fascination for transforming complex data into intelligent, actionable insights. I specialize in **Data Science** and **AI Development**, with a strong focus on building cutting-edge, generative AI systems that solve real-world problems.
 
 ---
 
@@ -15,12 +15,23 @@ I'm an Electrical Engineering graduate with a focus on Telecommunications, and a
 
 ## 🛠️ My Toolkit:
 
-* **Programming Languages**: Python, SQL
-* **ML/DL Frameworks & Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV
-* **AI/NLP Tools**: Langchain (for chatbot development), familiar with Llama and GPT-4 APIs
-* **Data Visualization**: Seaborn, Matplotlib
-* **Data Engineering (Introductory)**: Apache Airflow, Apache Kafka
-* **General Tools**: Linux, Microsoft Excel, Microsoft Word
+<p align="center">
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777777?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </a>
+  <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-272822?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/Langchain-0177BC?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache_Airflow"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache_Kafka"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a>
+</p>
 
 ---
 
@@ -28,14 +39,20 @@ I'm an Electrical Engineering graduate with a focus on Telecommunications, and a
 
 Here are some of the projects I'm most proud of. You can find their repositories linked below!
 
-### [Medical Chatbot Recommender System](Your-Repo-Link-Here)
-Designed and built a knowledge-based recommender system to generate specialized medical suggestions for users. This was achieved by fine-tuning a chatbot with medical data, leveraging Azure OpenAI API and Langchain with the RAG technique.
+### [Intelligent Medical Chatbot](Your-Repo-Link-Here)
+I engineered a sophisticated, knowledge-based recommender system that delivers tailored medical advice. By fine-tuning a chatbot with extensive medical datasets and harnessing the power of Azure's OpenAI API and Langchain's RAG technique, I created a system that provides precise and context-aware responses. This project showcases my ability to build specialized AI applications that can make a real-world impact.
 
-### [City Traffic Control with OpenCV & YOLO](Your-Repo-Link-Here)
-An academic project focused on implementing an urban traffic control system using OpenCV and YOLO for real-time object detection and analysis.
+[**View on GitHub**](Your-Repo-Link-Here)
 
-### [AI-Powered Four-Wheeled Robot for Obstacle Detection](Your-Repo-Link-Here)
-Developed a four-wheeled robot equipped with artificial intelligence capabilities for autonomous obstacle detection using a camera, enhancing its navigation and safety.
+### [Smart City Traffic Management System](Your-Repo-Link-Here)
+As part of an academic initiative, I developed a cutting-edge urban traffic control system. Using OpenCV and the YOLO algorithm, my system performs real-time object detection and analysis to optimize traffic flow and enhance urban mobility. This project demonstrates my skills in computer vision and my ability to apply AI to solve complex, real-world challenges.
+
+[**View on GitHub**](Your-Repo-Link-Here)
+
+### [Autonomous Obstacle-Navigating Robot](Your-Repo-Link-Here)
+I built and programmed a four-wheeled robot with advanced AI for autonomous navigation. The robot uses a camera to detect and avoid obstacles in its path, showcasing my expertise in robotics and AI-powered control systems. This project highlights my hands-on experience in creating intelligent, autonomous machines.
+
+[**View on GitHub**](Your-Repo-Link-Here)
 
 ---
 
@@ -70,8 +87,10 @@ Developed a four-wheeled robot equipped with artificial intelligence capabilitie
 
 ## 📧 Let's Connect!
 
-* **Email**: ashkannadafianmail@gmail.com
-* **LinkedIn**: www.linkedin.com/in/ashkan-nadafian
-* **Phone**: +98 903 310 1666 
+<p align="center">
+  <a href="mailto:ashkannadafianmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ashkan-nadafian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="tel:+989033101666"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/></a>
+</p>
 
 Feel free to explore my repositories to see my work in action!
