@@ -1,4 +1,4 @@
-# Hi there, I'm Ashkan Nadafian! 👋
+# Hi there, I'm Ashkan Nadafian! 👋🤖
 
 I'm an Electrical Engineering graduate with a focus on Telecommunications, and a passionate Python Programmer with 2 years of experience in Data Analysis, Machine Learning, and Deep Learning model implementation. My journey has led me to specialize in **Data Science** and **AI Development**, where I thrive on transforming data into actionable insights and building intelligent systems.
 
