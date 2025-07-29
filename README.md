@@ -1,43 +1,86 @@
-# Hi, I'm Ashkan Nadafian 👋
+Hi there, I'm Ashkan Nadafian! 👋
 
-A passionate Electrical Engineering graduate (Telecommunications) with 2 years of experience as a Python programmer in data analysis and implementation of Machine Learning and Deep Learning models. My expertise lies in Data Science and AI Development.
+I'm an Electrical Engineering graduate with a focus on Telecommunications, and a passionate Python Programmer with 2 years of experience in Data Analysis, Machine Learning, and Deep Learning model implementation. My journey has led me to specialize in Data Science and AI Development, where I thrive on transforming data into actionable insights and building intelligent systems.
+🚀 What I'm passionate about:
 
----
+    Data Science: Extracting knowledge and insights from structured and unstructured data.
 
-### 🚀 Projects & Experience
+    AI Development: Building intelligent applications and systems, particularly with a focus on Generative AI.
 
-* **Medical Chatbot Recommender System:** Designed and built a knowledge-based recommender system to generate specialized medical suggestions for users via a fine-tuned chatbot using medical data. (Link to your repo)
-* **City Traffic Control:** Academic project focused on urban traffic control using OpenCV and YOLO. (Link to your repo)
-* **AI-powered Robot:** Built a four-wheeled robot equipped with AI for obstacle detection using a camera. (Link to your repo)
-* **Data Engineering Initiatives:** Gained introductory familiarity with data engineering tools such as Apache Airflow and Apache Kafka during my time at Digitoon.
+    Machine Learning & Deep Learning: Designing and implementing robust models for various applications.
 
----
+    Problem Solving: Tackling complex challenges with innovative and efficient solutions.
 
-### 💡 Skills
+🛠️ My Toolkit:
 
-* **Programming Languages:** Python, SQL
-* **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV, Langchain
-* **Data Visualization:** Seaborn, Matplotlib
-* **Tools:** Linux, Microsoft Excel, Microsoft Word
-* **Analytical:** Data Preprocessing, Data Cleaning, Data Modeling, Feature Selection
+    Programming Languages: Python, SQL
 
----
+    ML/DL Frameworks & Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV
 
-### 🎓 Education & Certifications
+    AI/NLP Tools: Langchain (for chatbot development), familiar with Llama and GPT-4 APIs
 
-* **Bachelor of Electrical Engineering (Telecommunications)** - Amol University of New Technologies (Graduated: September 2024)
-* **Machine Learning Specialization** - Coursera - Andrew NG (Supervised ML, Advanced Algorithms, Unsupervised Learning, Recommenders, Reinforcement Learning)
-* **Data Analysis and Machine Learning** - Tehran Institute of Technology (Data Cleaning, Data Visualization, Traditional ML)
+    Data Visualization: Seaborn, Matplotlib
 
----
+    Data Engineering (Introductory): Apache Airflow, Apache Kafka
 
-### 🏆 Awards & Honors
+    General Tools: Linux, Microsoft Excel, Microsoft Word
 
-* Second place in the 15th International Artificial Intelligence and Robotics Rhino Cup competitions.
+🌟 Featured Projects:
 
----
+Here are some of the projects I'm most proud of. You can find their repositories linked below!
 
-### ✉️ Connect with me!
+    Medical Chatbot Recommender System
 
-* **Email:** ashkannadafianmail@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile URL]
+        Designed and built a knowledge-based recommender system to generate specialized medical suggestions for users. This was achieved by fine-tuning a chatbot with medical data, leveraging Azure OpenAI API and Langchain with the RAG technique.
+
+    City Traffic Control with OpenCV & YOLO
+
+        An academic project focused on implementing an urban traffic control system using OpenCV and YOLO for real-time object detection and analysis.
+
+    AI-Powered Four-Wheeled Robot for Obstacle Detection
+
+        Developed a four-wheeled robot equipped with artificial intelligence capabilities for autonomous obstacle detection using a camera, enhancing its navigation and safety.
+
+💼 Work Experience:
+
+    Data Scientist - AI Developer @ Vitruvianshield (Remote, Lausanne, Switzerland)
+
+        September - December 2024
+
+        Key responsibilities included designing and building a knowledge-based recommender system and gaining familiarity with Generative AI.
+
+    Data Engineer @ Digitoon (Tehran, Iran)
+
+        July - September 2024
+
+        Gained introductory familiarity with data engineering tools like Apache Airflow and Apache Kafka.
+
+🎓 Education & Certifications:
+
+    Bachelor of Electrical Engineering (Telecommunications)
+
+        Amol University of New Technologies
+
+        Graduated: September 2024
+
+    Machine Learning Specialization (Coursera - Andrew NG)
+
+        Covered Supervised Machine Learning (Regression, Classification), Advanced Learning Algorithms, Unsupervised Learning, Recommenders, and Reinforcement Learning.
+
+    Data Analysis and Machine Learning (Tehran Institute of Technology)
+
+        Focused on Data Cleaning, Preprocessing, Data Visualization, and Traditional Machine Learning Algorithms.
+
+🏆 Awards & Honors:
+
+    Second Place in the 15th International Artificial Intelligence and Robotics Rhino Cup Competitions.
+
+📧 Let's Connect!
+
+    Email: ashkannadafianmail@gmail.com
+
+    LinkedIn: www.linkedin.com/in/ashkan-nadafian
+
+    Phone: +98 903 310 1666 (Optional: You can remove this if you prefer not to share your phone number publicly)
+
+Feel free to explore my repositories to see my work in action!
