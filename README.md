@@ -39,21 +39,6 @@ I'm a passionate AI Engineer with 2 years of hands-on experience in Data Analysi
 
 Here are some of the projects I'm most proud of. You can find their repositories linked below!
 
-### [Intelligent Medical Chatbot](Your-Repo-Link-Here)
-I engineered a sophisticated, knowledge-based recommender system that delivers tailored medical advice. By fine-tuning a chatbot with extensive medical datasets and harnessing the power of Azure's OpenAI API and Langchain's RAG technique, I created a system that provides precise and context-aware responses. This project showcases my ability to build specialized AI applications that can make a real-world impact.
-
-[**View on GitHub**](Your-Repo-Link-Here)
-
-### [Smart City Traffic Management System](Your-Repo-Link-Here)
-As part of an academic initiative, I developed a cutting-edge urban traffic control system. Using OpenCV and the YOLO algorithm, my system performs real-time object detection and analysis to optimize traffic flow and enhance urban mobility. This project demonstrates my skills in computer vision and my ability to apply AI to solve complex, real-world challenges.
-
-[**View on GitHub**](Your-Repo-Link-Here)
-
-### [Autonomous Obstacle-Navigating Robot](Your-Repo-Link-Here)
-I built and programmed a four-wheeled robot with advanced AI for autonomous navigation. The robot uses a camera to detect and avoid obstacles in its path, showcasing my expertise in robotics and AI-powered control systems. This project highlights my hands-on experience in creating intelligent, autonomous machines.
-
-[**View on GitHub**](Your-Repo-Link-Here)
-
 ---
 
 ## 💼 Work Experience:
